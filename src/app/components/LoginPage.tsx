@@ -241,7 +241,7 @@ export function LoginPage() {
                 </div>
 
                 {/* Demo Credentials Info */}
-                <div 
+                {/* <div 
                   className="border-2 rounded-xl p-4 backdrop-blur-sm"
                   style={{
                     background: `linear-gradient(to right, ${getColor('accent3')}10, ${getColor('accent3')}05)`,
@@ -261,7 +261,7 @@ export function LoginPage() {
                       borderColor: `${getColor('accent3')}50`
                     }}>admin123</code>
                   </p>
-                </div>
+                </div> */}
 
                 {/* Submit Button */}
                 <Button
